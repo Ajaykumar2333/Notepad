@@ -1,2 +1,2 @@
 # Notepad
-This is a notepad
+This is a notepad done with project using javaSwing
